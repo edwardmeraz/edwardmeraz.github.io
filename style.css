@@ -59,3 +59,15 @@ ol {
 ul {
     color: rgb(255, 255, 255)
 }
+
+p {
+    background-color: rgb(68, 71, 73)
+}
+
+ul {
+    background-color: rgb(68, 71, 73);
+}
+
+ol {
+    background-color: rgb(68, 71, 73);
+}
